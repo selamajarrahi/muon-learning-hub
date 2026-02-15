@@ -78,6 +78,8 @@
 |----------|--------|--------------|
 | [Kimi K2 Paper](articles/05-kimi-k2.md) | Moonshot AI | Muon at 1T scale, agentic training |
 | [Training at Any Scale](articles/06-training-any-scale.md) | Pethick et al. | Modern optimization survey including Muon |
+| [Muon is Scalable](articles/07-muon-scalable.md) | Liu, Su et al. | **NEW**: Scaling analysis to 7B+ |
+| [Practical Efficiency](articles/08-practical-efficiency.md) | Essential AI | **NEW**: Production deployment guide |
 
 ---
 
@@ -93,6 +95,11 @@
 | 📚 Papers to Read | [docs/papers-to-read.md](docs/papers-to-read.md) | Curated reading list |
 | 🚀 Real-World Deployments | [docs/real-world-deployments.md](docs/real-world-deployments.md) | Kimi K2, NanoGPT, and more |
 | 🧪 Self-Assessment Quiz | [docs/learning-quiz.md](docs/learning-quiz.md) | Test your understanding |
+| 🎛️ Hyperparameter Tuning | [docs/hyperparameter-tuning.md](docs/hyperparameter-tuning.md) | **NEW**: Complete tuning guide |
+| 🔧 Troubleshooting | [docs/troubleshooting.md](docs/troubleshooting.md) | **NEW**: Debug common issues |
+| ❌ When NOT to Use Muon | [docs/when-not-to-use-muon.md](docs/when-not-to-use-muon.md) | **NEW**: Know the limitations |
+| 📄 Citations | [docs/citations.md](docs/citations.md) | **NEW**: BibTeX for all papers |
+| 👥 Community Resources | [docs/community-resources.md](docs/community-resources.md) | **NEW**: Discords, forums, tools |
 
 ---
 
